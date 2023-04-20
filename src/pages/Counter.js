@@ -4,7 +4,7 @@ const Counter = () => {
   const [counter, setCounter] = React.useState(0);
   return (
     <div>
-      <p>{counter}</p>
+      <p>Counter: {counter}</p>
       <button onClick={()=>setCounter(counter+1)}>Increment</button>
     </div>
   );

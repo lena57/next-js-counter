@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0c6a0be-91ea-4d01-aed2-f4bb52e99253" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/Counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Counter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682016904941</updated>
       <workItem from="1682016906632" duration="215000" />
-      <workItem from="1682017145381" duration="343000" />
+      <workItem from="1682017145381" duration="765000" />
     </task>
     <servers />
   </component>
